@@ -1,219 +1,110 @@
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CTAS.png 1010,207,1465,518,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CTVA.png 1001,362,1263,499,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CTVA.png 1168,330,1249,454,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CTXS.png 342,367,443,416,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\D.png 631,161,890,260,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DAL.png 1112,293,1353,495,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DD.png 74,214,259,279,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DE.png 1045,472,1163,570,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DE.png 1218,318,1298,412,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DE.png 1298,230,1359,301,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DGX.png 1309,168,1500,292,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DGX.png 1391,102,1602,241,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DGX.png 875,317,1016,355,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DOV.png 564,377,950,517,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DOV.png 1106,325,1260,415,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DOV.png 1288,180,1480,334,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DRE.png 1062,366,1163,450,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DTE.png 1056,242,1176,383,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DTE.png 1014,159,1399,426,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DUK.png 1248,125,1494,245,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EFX.png 1078,334,1399,516,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EIX.png 423,184,589,284,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EMN.png 1090,347,1199,435,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EMN.png 1291,138,1419,257,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EMR.png 1096,313,1267,435,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EMR.png 1268,233,1351,311,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EMR.png 319,327,553,387,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EMR.png 1415,145,1488,191,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ENPH.png 1011,574,1178,686,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ENPH.png 1076,545,1232,650,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EQR.png 1177,291,1346,434,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ES.png 613,249,778,342,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ES.png 411,316,600,398,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ESS.png 1242,255,1360,380,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ESS.png 1250,211,1397,336,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ESS.png 809,214,860,260,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ETN.png 1177,348,1266,401,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ETN.png 180,475,356,514,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ETR.png 1227,169,1500,313,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ETR.png 510,318,697,386,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ETR.png 630,285,770,355,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EVRG.png 1226,163,1482,289,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EXR.png 1047,450,1175,554,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EXR.png 584,473,731,523,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FAST.png 1268,180,1481,303,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FAST.png 1254,158,1568,298,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FCX.png 1189,471,1255,529,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FDX.png 1045,433,1160,562,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FE.png 881,193,999,236,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FFIV.png 918,361,1271,532,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FIS.png 657,286,772,363,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FISV.png 571,266,824,384,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FMC.png 565,336,828,452,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FMC.png 1002,166,1269,444,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FRT.png 1239,180,1400,421,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FTNT.png 1281,459,1336,504,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FTNT.png 1351,354,1437,443,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FTV.png 875,247,979,315,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\GD.png 1244,296,1343,379,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\GNRC.png 1020,587,1182,647,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\GWW.png 970,226,1414,504,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\HON.png 1102,248,1263,394,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\HON.png 988,126,1380,454,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\HPQ.png 1298,249,1354,318,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\HST.png 1087,279,1385,471,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\IBM.png 1215,190,1388,303,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\IDXX.png 1009,370,1243,583,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\IDXX.png 1318,225,1449,324,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\IEX.png 1002,137,1403,420,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\IEX.png 1000,77,1576,423,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ILMN.png 811,246,1340,514,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ITW.png 1004,216,1381,475,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\J.png 1107,324,1206,390,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\J.png 749,355,868,415,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\JBHT.png 914,328,1297,529,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\JBHT.png 1173,298,1364,393,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\JBHT.png 1392,205,1572,297,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\JKHY.png 852,303,1003,351,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\JNJ.png 1309,127,1477,200,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\JNPR.png 1162,245,1436,407,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\KLAC.png 1155,388,1268,468,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\KLAC.png 752,516,868,584,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LH.png 1148,290,1316,382,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LIN.png 1187,252,1374,359,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LIN.png 1011,270,1293,477,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LNT.png 632,279,775,351,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LRCX.png 1005,391,1307,582,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LRCX.png 756,546,881,594,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LUV.png 1107,299,1241,432,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LUV.png 1195,292,1261,362,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LUV.png 1110,235,1342,426,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MAA.png 1240,332,1368,426,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MAS.png 730,365,878,440,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MCHP.png 1174,324,1273,402,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MCHP.png 977,326,1266,555,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MOS.png 393,271,529,374,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MPWR.png 746,570,935,627,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MPWR.png 1009,446,1226,607,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MRNA.png 1390,471,1461,562,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MSFT.png 1316,264,1445,371,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MTD.png 990,388,1153,503,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MTD.png 1306,196,1456,329,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MU.png 1151,409,1267,480,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MU.png 751,432,976,566,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MU.png 745,430,877,555,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NEE.png 1381,110,1577,235,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NEM.png 739,384,971,489,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NLOK.png 1321,197,1434,298,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NOC.png 604,289,786,397,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NRG.png 292,260,577,422,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NSC.png 1110,283,1263,404,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NSC.png 1199,234,1315,338,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NSC.png 1252,209,1354,276,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NSC.png 1299,193,1367,264,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NTAP.png 1185,395,1270,453,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NTAP.png 1448,137,1520,185,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NTAP.png 344,311,443,377,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NTAP.png 353,265,489,379,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NVDA.png 1328,444,1448,534,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NVDA.png 828,654,913,673,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NXPI.png 627,511,747,584,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\O.png 1291,205,1367,254,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ODFL.png 749,533,882,582,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ODFL.png 1178,369,1261,421,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ODFL.png 1397,185,1564,301,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ORCL.png 1220,350,1359,411,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ORCL.png 611,415,820,500,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PAYX.png 1265,224,1426,303,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PEAK.png 624,223,799,323,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PEAK.png 316,310,615,415,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PH.png 1107,355,1225,437,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PH.png 832,409,925,469,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PH.png 194,420,316,483,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PKG.png 602,352,850,450,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PKG.png 1143,294,1227,371,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PKI.png 981,354,1162,500,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PPG.png 1105,323,1181,413,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PPG.png 1194,248,1261,322,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PPG.png 832,314,924,370,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PSA.png 671,364,771,413,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PSA.png 416,397,477,442,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PSA.png 1012,324,1365,469,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PTC.png 1012,341,1293,553,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PTC.png 274,435,397,505,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PWR.png 1013,512,1189,611,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PWR.png 1305,274,1390,374,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\QCOM.png 1176,277,1264,362,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\QCOM.png 810,460,926,511,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\QRVO.png 1153,333,1263,422,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\QRVO.png 957,333,1276,544,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\QRVO.png 826,511,917,547,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\RHI.png 1239,312,1405,495,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\RHI.png 1336,266,1485,370,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ROK.png 1303,244,1447,320,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ROK.png 995,317,1235,533,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ROL.png 1017,289,1114,411,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ROL.png 1017,266,1163,439,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\RSG.png 1003,273,1401,461,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\RTX.png 1249,167,1412,310,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\RTX.png 828,176,930,252,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\RTX.png 225,270,325,321,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SBAC.png 596,405,718,479,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SBAC.png 1314,197,1440,321,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SEE.png 1164,297,1266,386,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SHW.png 1001,288,1390,508,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SHW.png 1253,216,1493,348,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SHW.png 754,453,855,493,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SNPS.png 1186,296,1289,385,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SPG.png 1262,355,1337,437,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SPG.png 397,204,475,267,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\STE.png 1382,82,1557,196,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SWKS.png 823,451,971,546,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SWKS.png 1259,267,1327,358,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SYK.png 1078,192,1262,350,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\SYK.png 470,268,830,407,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TDG.png 1098,265,1284,404,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TDG.png 1285,166,1437,279,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TDG.png 750,330,879,398,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TDY.png 602,365,811,464,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TER.png 990,364,1252,574,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TER.png 509,540,853,628,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TFX.png 623,298,806,423,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TXN.png 1180,299,1261,366,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TXT.png 1415,137,1559,239,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TXT.png 1172,330,1365,494,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TYL.png 1003,269,1266,427,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\TYL.png 1384,130,1559,279,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\UDR.png 1266,277,1405,376,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\UHS.png 1099,243,1270,397,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\UHS.png 695,129,882,282,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\UNH.png 1487,176,1598,277,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\UNP.png 567,345,757,478,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\UNP.png 1004,234,1303,495,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\UPS.png 1061,426,1144,496,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\UPS.png 1322,257,1385,296,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\URI.png 1402,159,1544,277,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\V.png 1279,194,1399,285,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\V.png 471,400,542,435,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\V.png 561,292,981,461,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\VMC.png 1199,259,1347,384,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\VMC.png 997,260,1361,520,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\VNO.png 1240,308,1437,493,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\VRSK.png 1518,115,1571,177,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\VRSK.png 477,409,535,440,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\WDC.png 750,349,984,533,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\WELL.png 1246,192,1449,349,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\WY.png 1060,352,1167,480,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\WY.png 1160,203,1336,339,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\WY.png 791,312,921,410,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\XLNX.png 1442,301,1510,375,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\XLNX.png 970,413,1231,545,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\XYL.png 1095,393,1179,486,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ZBH.png 717,227,945,352,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ZBH.png 872,198,1011,271,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ZBRA.png 947,428,1256,578,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ZBRA.png 1379,168,1494,270,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ZTS.png 1002,233,1410,493,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ZTS.png 1242,128,1562,364,0
-content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ZTS.png 1390,222,1444,265,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\AAPL.png 1307,169,1572,323,0 146,596,277,618,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ACN.png 1012,297,1279,475,0 1266,202,1455,308,0 572,382,949,510,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ADBE.png 1324,258,1461,365,0 528,443,941,558,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ADI.png 1327,147,1443,230,0 1521,81,1576,152,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ADSK.png 1177,256,1279,352,0 625,435,751,532,0 986,262,1258,505,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\AEE.png 621,229,790,323,0 1222,117,1502,248,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ADP.png 1105,223,1359,382,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\AEP.png 621,259,766,344,0 130,344,292,388,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\AKAM.png 1061,176,1156,250,0 993,175,1145,326,0 468,259,998,448,0 36,305,824,510,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ALLE.png 1090,191,1417,323,0 618,318,773,410,0 613,236,951,413,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ALB.png 1002,494,1280,620,0 1389,311,1472,370,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ALK.png 813,253,921,336,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\AMAT.png 747,527,920,596,0 832,516,926,565,0 1275,236,1383,356,0 972,462,1309,600,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\AMT.png 1317,209,1427,341,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ANET.png 1310,236,1561,399,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\AME.png 1101,271,1228,361,0 1161,236,1275,318,0 966,108,1572,507,0 609,341,815,483,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\AMD.png 1388,352,1495,456,0 1261,253,1576,450,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\APH.png 1098,284,1226,370,0 1327,179,1463,260,0 1395,167,1482,227,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ARE.png 1156,226,1396,318,0 1291,130,1564,296,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\AOS.png 1096,316,1220,390,0 1295,245,1368,328,0 182,270,305,350,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ATO.png 622,230,802,311,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\AWK.png 1374,148,1472,208,0 1057,198,1231,398,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\BLL.png 1050,284,1169,411,0 750,308,848,392,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CAT.png 1047,412,1180,535,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CBRE.png 1261,249,1397,380,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\BR.png 977,228,1236,469,0 1156,212,1265,297,0 1170,169,1388,288,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CDAY.png 966,289,1278,550,0 1381,133,1545,312,0 545,432,950,583,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CDW.png 1105,324,1341,447,0 619,429,813,521,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CDNS.png 1168,279,1300,384,0 1368,121,1580,309,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CE.png 600,351,815,463,0 747,341,879,418,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CHRW.png 973,228,1175,405,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CMS.png 1061,88,1232,215,0 620,194,771,286,0 278,222,689,359,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CNP.png 540,185,689,246,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CPRT.png 985,211,1455,524,0 835,397,919,446,0 1263,123,1561,326,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CRM.png 1383,213,1510,324,0 1132,301,1195,366,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CSCO.png 570,190,813,367,0 1219,237,1368,400,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CSX.png 870,290,995,363,0 341,343,521,453,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CTVA.png 1151,381,1230,444,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\CTXS.png 346,361,447,412,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\D.png 627,154,889,268,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DAL.png 1097,288,1352,498,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DE.png 1063,468,1156,544,0 1213,311,1300,382,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DGX.png 1306,162,1500,287,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DTE.png 1053,241,1168,350,0 988,149,1392,434,0 273,251,731,375,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DOV.png 1282,179,1470,334,0 556,373,951,519,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\DUK.png 1105,174,1382,299,0 1233,124,1478,245,0 759,245,864,275,0 438,293,611,374,0 552,284,621,324,0 149,290,283,326,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EFX.png 1101,328,1402,477,0 1268,240,1483,409,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EIX.png 575,103,994,381,0 414,187,589,292,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EMN.png 1094,338,1197,431,0 1293,135,1422,257,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EQR.png 793,202,856,242,0 465,311,534,341,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EMR.png 1089,311,1281,422,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ENPH.png 1380,248,1577,497,0 1008,578,1184,690,0 1087,543,1232,654,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ESS.png 623,244,795,350,0 1346,198,1436,281,0 1469,125,1553,179,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ES.png 932,146,995,194,0 1427,104,1498,178,0 556,303,620,345,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ETR.png 520,317,708,380,0 635,280,780,355,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EVRG.png 1224,160,1481,314,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FAST.png 1285,182,1476,300,0 1400,139,1556,235,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FCX.png 1192,466,1251,534,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\EXR.png 685,462,764,516,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FDX.png 1067,429,1167,531,0 173,278,335,346,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FE.png 628,280,776,362,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FFIV.png 917,356,1281,536,0 384,288,554,406,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FISV.png 558,263,837,389,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FIS.png 1096,147,1189,233,0 629,281,774,368,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FMC.png 565,330,820,448,0 737,281,951,395,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FRT.png 1240,175,1387,372,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FTNT.png 1218,454,1336,547,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\GNRC.png 1231,398,1350,502,0 1324,195,1514,398,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\FTV.png 1074,253,1155,385,0 475,182,557,249,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\HPQ.png 1292,245,1351,324,0 117,424,246,472,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\HST.png 1103,277,1375,461,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\HON.png 1100,245,1227,359,0 564,236,936,413,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\IDXX.png 1319,227,1447,316,0 998,365,1250,593,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\INFO.png 1250,168,1449,318,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ILMN.png 343,424,465,495,0 671,325,810,412,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\INTC.png 867,230,974,326,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\INTU.png 558,497,826,588,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\IP.png 1307,201,1387,315,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\IPGP.png 976,293,1279,506,0 1227,224,1269,309,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\IQV.png 572,377,833,488,0 1305,255,1403,339,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\IR.png 869,352,1016,465,0 1383,167,1575,279,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ISRG.png 1286,194,1466,331,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\J.png 1100,314,1207,403,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\JBHT.png 1166,297,1378,396,0 1395,199,1571,293,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\JKHY.png 856,301,1002,354,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\JNPR.png 1423,202,1568,285,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\JNJ.png 1308,120,1476,206,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\KLAC.png 1161,383,1286,472,0 747,510,890,589,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LH.png 1138,289,1336,384,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LIN.png 1158,245,1402,372,0 1385,162,1570,238,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LNT.png 627,275,779,358,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\LRCX.png 981,388,1270,587,0 820,523,932,587,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MPWR.png 994,443,1239,605,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MRNA.png 1381,463,1458,569,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MOS.png 1155,354,1330,509,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MSFT.png 1309,255,1454,355,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MTD.png 1297,190,1467,334,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\MU.png 1193,403,1265,475,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NEE.png 1056,259,1170,356,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NEM.png 743,377,983,490,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NLOK.png 1269,194,1446,314,0 863,381,995,450,0 949,352,1017,410,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NRG.png 290,257,578,435,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NTAP.png 392,248,490,362,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NSC.png 1176,235,1310,346,0 1248,209,1342,286,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\NVDA.png 1324,437,1452,538,0 1436,311,1577,431,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ODFL.png 1392,178,1578,308,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\ORCL.png 1205,347,1361,412,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PAYX.png 1265,216,1445,311,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PEAK.png 520,252,688,362,0 615,224,802,312,0
+content\TrainYourOwnYOLO\Data\Source_Images\Training_Images\PH.png 1096,346,1229,444,0 825,405,927,473,0
